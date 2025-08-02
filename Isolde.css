@@ -1,0 +1,68 @@
+/* camavor.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0b0b0d;
+  color: #d8d8e0;
+  margin: 0;
+  padding: 0;
+  line-height: 1.7;
+}
+
+header {
+  background: linear-gradient(to right, #0f172a, #1e293b);
+  padding: 3rem 2rem;
+  text-align: center;
+  box-shadow: 0 0 10px #000;
+}
+
+h1 {
+  color: #38bdf8;
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  font-size: 1.1rem;
+  color: #bfc7d5;
+}
+
+h2 {
+  color: #94e2ff;
+  border-bottom: 1px solid #3b82f6;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  color: #7dd3fc;
+  margin-top: 1.5rem;
+}
+
+section {
+  padding: 2rem;
+  background-color: #111827;
+  border-top: 1px solid #1f2937;
+}
+
+.character {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #1f2937;
+  border-left: 5px solid #38bdf8;
+  box-shadow: 0 0 10px #00000055;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 1.5rem;
+  color: #cbd5e1;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+  background-color: #0f172a;
+  color: #64748b;
+  border-top: 1px solid #1e293b;
+}
